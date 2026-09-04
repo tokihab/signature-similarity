@@ -1,6 +1,6 @@
 streamlit
 streamlit-drawable-canvas[image]
-tensorflow==2.17.0
+tensorflow
 huggingface_hub
 Pillow
 numpy
